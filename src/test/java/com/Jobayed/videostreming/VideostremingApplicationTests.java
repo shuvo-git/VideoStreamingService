@@ -1,10 +1,10 @@
-package com.jaxiron.video;
+package com.Jobayed.videostreming;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VideoApplicationTests {
+class VideostremingApplicationTests {
 
 	@Test
 	void contextLoads() {
